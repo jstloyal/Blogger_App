@@ -18,7 +18,9 @@ Routing ...among other features
 - Twitter: [abrormukimov](https://www.twitter.com/abrormukimov)
 
 👤 **Sunkanmi Adetayo**
-
+- Github: [jstloyal](https://github.com/jstloyal)
+- Linkedin: [jstloyalty](https://www.linkedin.com/in/jstloyalty)
+- Twitter: [jstloyalty](https://www.twitter.com/jstloyalty)
 
 ## 🤝 Contributing
 
